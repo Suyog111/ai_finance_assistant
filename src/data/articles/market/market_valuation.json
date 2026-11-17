@@ -1,0 +1,14 @@
+{
+  "id": "market_valuation",
+  "title": "Understanding Market Valuation Metrics",
+  "category": "market",
+  "source": "AI Finance Assistant Knowledge Base",
+  "date": "2024-01-01",
+  "tags": [
+    "valuation",
+    "shiller pe",
+    "buffett indicator",
+    "cape ratio"
+  ],
+  "content": "Assessing whether the broader stock market or an individual equity is undervalued, fairly priced, or overvalued requires examining fundamental valuation metrics. In financial analysis, valuation determines the relationship between the price paid for an asset and the underlying cash flows, earnings, or assets supporting that security.\n\nOne of the most widely followed macro valuation indicators is the Cyclically Adjusted Price-to-Earnings (CAPE) ratio, also known as the Shiller P/E. Created by Nobel laureate Robert Shiller, the CAPE ratio evaluates the current price of the S&P 500 against the ten-year average inflation-adjusted earnings of its constituents. By smoothing earnings across full business cycles, the CAPE ratio filters out temporary economic fluctuations. A historically elevated CAPE ratio often signals lower annualized forward returns over subsequent decades, whereas low ratios often precede above-average long-term returns.\n\nAnother benchmark is the Buffett Indicator, defined as the ratio of total US stock market capitalization (Wilshire 5000 index) to US Gross Domestic Product (GDP). Legendary investor Warren Buffett popularized this metric as a broad thermometer of corporate valuation relative to economic output. When the ratio significantly exceeds 100%, historical precedent suggests the equity market is pricing in optimistic growth expectations.\n\nOn the single-stock level, analysts inspect metrics such as Price-to-Earnings (P/E), Price-to-Sales (P/S), and Enterprise Value to EBITDA (EV/EBITDA). While valuation metrics provide useful risk context, they are ineffective market-timing tools because overvalued markets can remain extended for years during expansionary regimes. Investors are encouraged to use valuation insights to moderate risk and rebalance asset allocations rather than attempting binary market exits."
+}

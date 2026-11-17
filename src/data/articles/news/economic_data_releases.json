@@ -1,0 +1,15 @@
+{
+  "id": "economic_data_releases",
+  "title": "Major Economic Data Releases: CPI, Jobs Report, and GDP",
+  "category": "news",
+  "source": "AI Finance Assistant Knowledge Base",
+  "date": "2024-01-01",
+  "tags": [
+    "cpi",
+    "jobs report",
+    "nonfarm payrolls",
+    "gdp",
+    "economic indicators"
+  ],
+  "content": "Financial markets respond rapidly to government economic reports that gauge the health of the broader economy. Three data releases consistently trigger market volatility: the Consumer Price Index (CPI), the Nonfarm Payrolls (Jobs Report), and Gross Domestic Product (GDP).\n\nThe Consumer Price Index (CPI), published monthly by the Bureau of Labor Statistics, measures the average change over time in prices paid by consumers for a representative basket of goods and services. Core CPI strips out volatile food and energy costs to provide a clearer read on underlying inflation trends. High CPI readings indicate stubborn inflation, leading markets to price in higher interest rates from the Fed.\n\nThe Nonfarm Payrolls (NFP) report, released on the first Friday of each month, measures the net change in US employment excluding agricultural workers, along with the national unemployment rate and average hourly earnings. Strong job growth demonstrates economic resilience, while accelerating wage growth can signal future inflationary pressures.\n\nGross Domestic Product (GDP), released quarterly by the Bureau of Economic Analysis, measures the total monetary value of all finished goods and services produced within the country. Two consecutive quarters of negative real GDP growth are frequently cited as the informal shorthand for an economic recession, though formal determinations are made by the National Bureau of Economic Research (NBER)."
+}

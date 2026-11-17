@@ -1,0 +1,14 @@
+{
+  "id": "portfolio_analysis_guide",
+  "title": "How to Conduct a Comprehensive Portfolio Review",
+  "category": "portfolio",
+  "source": "AI Finance Assistant Knowledge Base",
+  "date": "2024-01-01",
+  "tags": [
+    "portfolio review",
+    "benchmark",
+    "costs",
+    "asset audit"
+  ],
+  "content": "Conducting a periodic portfolio audit is essential to verify that an investment strategy remains aligned with long-term financial goals and risk constraints. Rather than constantly checking daily market fluctuations, investors should schedule a formal portfolio review once or twice per year.\n\nA thorough portfolio review follows a four-step framework: asset allocation audit, benchmark comparison, fee and expense analysis, and tax efficiency check.\n\nFirst, analyze current asset allocation across equities, fixed income, and cash. Calculate how much current allocations deviate from your baseline targets. If an equity bull market has pushed your stock allocation 7% above target, note the need for a rebalance.\n\nSecond, evaluate performance against appropriate benchmarks. A common pitfall is comparing a diversified 60/40 balanced portfolio directly against the S&P 500 index. If your portfolio holds bonds and international equities, comparing it to an all-US stock index creates misleading expectations. Compare each asset component against its true peer benchmark (e.g., US stocks against the Russell 3000, bonds against the Bloomberg Aggregate Bond Index).\n\nThird, scrutinize expense ratios and turnover. Check whether any actively managed mutual funds are charging 0.75% or higher when equivalent index funds charge under 0.05%. Compounded advisory fees and high expense ratios can erode over 25% of potential retirement wealth across a 30-year career.\n\nFinally, review tax placement and tax-loss harvesting opportunities. Confirm that dividend-heavy holdings reside inside tax-sheltered accounts to maximize tax efficiency."
+}

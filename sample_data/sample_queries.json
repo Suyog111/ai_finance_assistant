@@ -1,0 +1,59 @@
+{
+  "description": "Representative test queries across all six specialized agents for US and Indian markets",
+  "queries": [
+    {
+      "category": "qa",
+      "agent": "Finance Q&A Agent",
+      "market": "Global",
+      "query": "How does compound interest work and what is the Rule of 72?"
+    },
+    {
+      "category": "tax_us",
+      "agent": "Tax Education Agent",
+      "market": "US",
+      "query": "Explain the difference between a traditional 401(k) and a Roth IRA, including income limits."
+    },
+    {
+      "category": "tax_india",
+      "agent": "Tax Education Agent",
+      "market": "India",
+      "query": "What are the new capital gains tax rules in India after Budget 2024 for stocks and mutual funds?"
+    },
+    {
+      "category": "portfolio",
+      "agent": "Portfolio Analysis Agent",
+      "market": "Dual",
+      "query": "I hold 10 shares of AAPL at 150, 20 shares of RELIANCE.NS at 2850, and 15 shares of VTI at 220. Review my portfolio."
+    },
+    {
+      "category": "market_us",
+      "agent": "Market Analysis Agent",
+      "market": "US",
+      "query": "What is Apple (AAPL) and the S&P 500 trading at today?"
+    },
+    {
+      "category": "market_india",
+      "agent": "Market Analysis Agent",
+      "market": "India",
+      "query": "How is Nifty 50 and Reliance (RELIANCE.NS) performing today?"
+    },
+    {
+      "category": "goals_us",
+      "agent": "Goal Planning Agent",
+      "market": "US",
+      "query": "How much do I need to save monthly to reach $1,000,000 in 20 years for retirement?"
+    },
+    {
+      "category": "goals_india",
+      "agent": "Goal Planning Agent",
+      "market": "India",
+      "query": "I want to accumulate ₹50 Lakhs in 10 years for a house down payment. How much should I invest via SIP each month?"
+    },
+    {
+      "category": "news",
+      "agent": "News Synthesizer Agent",
+      "market": "US",
+      "query": "What is the latest news and earnings commentary on Microsoft (MSFT)?"
+    }
+  ]
+}

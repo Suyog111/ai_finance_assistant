@@ -1,0 +1,14 @@
+{
+  "id": "compound_interest",
+  "title": "The Power of Compound Interest",
+  "category": "basics",
+  "source": "AI Finance Assistant Knowledge Base",
+  "date": "2024-01-01",
+  "tags": [
+    "compound interest",
+    "growth",
+    "rule of 72",
+    "time value of money"
+  ],
+  "content": "Compound interest is often referred to as the eighth wonder of the world because of its transformative impact on long-term wealth creation. Unlike simple interest, which calculates earnings solely on the principal deposit, compound interest calculates returns on both the original principal and accumulated interest from prior compounding cycles. This creates an exponential growth curve over extended time horizons.\n\nTo understand compounding intuitively, consider two concepts: the frequency of compounding and the duration of investment. Whether interest compounds daily, monthly, quarterly, or annually influences the effective annual yield. The formula for compound interest is A = P(1 + r/n)^(nt), where A represents future value, P is initial principal, r is annual interest rate, n is compounding frequency per year, and t is time in years.\n\nA practical mental math shortcut is the Rule of 72. By dividing 72 by the anticipated annual interest rate, investors can estimate how many years it will take their money to double. For example, an investment growing at 8% annually doubles approximately every 9 years (72 / 8 = 9). Over a 36-year career, an initial investment would double four times, multiplying the original capital sixteen-fold without additional contributions.\n\nThe single most critical factor in compounding is time, not initial capital. An individual who starts investing $200 per month at age 22 will accumulate significantly more wealth by retirement than someone who starts investing $400 per month at age 35, despite contributing far less total out-of-pocket money. Delaying investing diminishes the exponential tail of the compound curve. For beginner investors, harnessing compounding requires starting as early as possible, maintaining consistent contributions through dollar-cost averaging, and reinvesting all dividends and capital gains."
+}

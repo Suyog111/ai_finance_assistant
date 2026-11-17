@@ -1,0 +1,14 @@
+{
+  "id": "risk_profiling",
+  "title": "Assessing Risk Tolerance vs Risk Capacity",
+  "category": "goals",
+  "source": "AI Finance Assistant Knowledge Base",
+  "date": "2024-01-01",
+  "tags": [
+    "risk profile",
+    "risk capacity",
+    "risk tolerance",
+    "investor psychology"
+  ],
+  "content": "Constructing a sustainable financial plan requires a clear understanding of an investor's personal relationship with risk. In professional wealth management, risk is divided into two distinct components: Risk Tolerance and Risk Capacity.\n\nRisk Tolerance is an emotional, psychological attribute. It measures an investor's mental ability to endure portfolio volatility, market drawdowns, and paper losses without experiencing distress or succumbing to panic selling. An aggressive investor can watch their portfolio decline 30% during a recession and view it as a buying opportunity; an emotionally conservative investor might lose sleep over a 5% drop.\n\nRisk Capacity, by contrast, is an objective mathematical reality governed by your balance sheet and timeline. It measures how much financial loss your current life situation can absorb without jeopardizing essential obligations like mortgage payments or retirement plans. A 25-year-old software engineer with an emergency fund and no dependents has enormous risk capacity because retirement is decades away. A 64-year-old planning to retire next year has very low risk capacity, regardless of how emotionally daring they may feel.\n\nConflict between tolerance and capacity requires careful compromise. When emotional tolerance is low but mathematical capacity is high, education on market history can help expand comfort with equities. However, when capacity is low, tolerance must take a back seat: taking excessive market risk near retirement to chase yield can lead to irreversible financial ruin."
+}

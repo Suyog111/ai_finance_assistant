@@ -1,0 +1,16 @@
+{
+  "id": "financial_news_sources",
+  "title": "A Guide to Credible Financial News Sources and Platforms",
+  "category": "news",
+  "source": "AI Finance Assistant Knowledge Base",
+  "date": "2024-01-01",
+  "tags": [
+    "sources",
+    "bloomberg",
+    "reuters",
+    "wsj",
+    "market data",
+    "financial media"
+  ],
+  "content": "Developing healthy financial literacy requires cultivating reliable, high-integrity information sources while filtering out speculative social media hype.\n\nCredible financial news platforms are divided into primary data providers and professional financial journalism:\n\n1. Primary Regulatory Data: The ultimate source of corporate truth is the SEC EDGAR system (sec.gov/edgar). Here, investors can read official, audited annual reports (10-K), quarterly reports (10-Q), and insider trading forms (Form 4) directly from the issuing companies. For economic metrics, the Federal Reserve Bank of St. Louis maintains FRED (Federal Reserve Economic Data), a free database of hundreds of thousands of historical economic indicators.\n\n2. Real-Time Financial Wire Services: Bloomberg News and Reuters are world-renowned for rapid, unbiased factual reporting of international market events, corporate earnings, and policy changes without sensationalist spin.\n\n3. In-Depth Business Journalism: The Wall Street Journal and The Financial Times offer comprehensive editorial analysis, investigative reporting on corporate governance, and macro economic perspectives.\n\n4. Free Retail Market Platforms: Yahoo Finance, Google Finance, and Investopedia provide excellent free access to real-time quotes, financial statements, and educational articles explaining complex concepts.\n\nAvoid relying on anonymous social media trading forums, hype channels, and 'get-rich-quick' influencers who promote volatile micro-cap stocks or high-risk options schemes."
+}

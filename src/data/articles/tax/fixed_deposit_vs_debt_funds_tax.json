@@ -1,0 +1,16 @@
+{
+  "id": "fixed_deposit_vs_debt_funds_tax",
+  "title": "Taxation of Fixed Deposits (FDs) vs. Debt Mutual Funds in India",
+  "category": "tax",
+  "source": "AI Finance Assistant Knowledge Base",
+  "date": "2024-08-01",
+  "tags": [
+    "fixed deposit",
+    "fd",
+    "debt mutual funds",
+    "tds",
+    "indexation",
+    "interest tax"
+  ],
+  "content": "Conservative fixed-income investors in India frequently evaluate Bank Fixed Deposits (FDs) against Debt Mutual Funds for capital preservation and stable returns. Understanding how each is taxed is critical for assessing post-tax net yields.\n\n1. Bank Fixed Deposits (FDs):\n- Tax Treatment: Interest income earned on bank FDs is fully taxable as 'Income from Other Sources' at your applicable income tax slab rate (which can reach 30% plus cess for high-income earners). Interest is taxed annually on an accrual basis, even if the FD matures years later.\n- Tax Deducted at Source (TDS): Banks deduct TDS at 10% if total annual FD interest exceeds \u20b940,000 for regular individuals (\u20b950,000 for senior citizens). If PAN is not provided, TDS is deducted at 20%.\n- Senior Citizen Relief: Under Section 80TTB, senior citizens (aged 60+) can claim a tax deduction of up to \u20b950,000 annually on interest earned from bank and post-office deposits.\n\n2. Debt Mutual Funds (Post-April 1, 2023 Amendment):\nPrior to April 2023, debt mutual funds enjoyed indexation benefits on long-term holdings (held > 3 years) with a 20% tax rate. However, the Finance Act 2023 stripped indexation benefits for mutual fund schemes that invest less than 35% in domestic equities (Specified Mutual Funds).\n- Capital gains arising from debt mutual fund units acquired on or after April 1, 2023, are classified as short-term capital gains and taxed at the investor's marginal income tax slab rate, regardless of the holding duration.\n\n3. Strategic Comparison:\nDespite the loss of indexation, Debt Mutual Funds retain one major structural advantage over FDs: Tax Deferral. With bank FDs, tax is due every single year as interest accrues. With Debt Mutual Funds (growth option), no tax is owed until the units are actively redeemed. This allows the full, gross balance to compound uninterrupted over multi-year periods."
+}

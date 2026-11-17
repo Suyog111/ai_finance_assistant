@@ -1,0 +1,14 @@
+{
+  "id": "investment_timeline",
+  "title": "Matching Investment Time Horizons to Asset Classes",
+  "category": "goals",
+  "source": "AI Finance Assistant Knowledge Base",
+  "date": "2024-01-01",
+  "tags": [
+    "time horizon",
+    "asset matching",
+    "glidepath",
+    "liquidity"
+  ],
+  "content": "The time horizon of a financial goal is the single most important variable in determining where and how that money should be invested. Deploying capital into inappropriate asset classes for your timeline creates either excessive downside risk or the risk of purchasing power erosion from inflation.\n\nA helpful rule of thumb divides investment timelines into three distinct stages:\n\n1. Immediate to Short Horizon (Under 3 Years): Funds needed within three years should never be invested in stocks or volatile bond funds. Over short horizons, stock markets are unpredictable and can easily experience 20-40% drawdowns. Suitable vehicles include High-Yield Savings Accounts (HYSAs), money market funds, and Treasury bills, which offer guaranteed principal preservation.\n\n2. Medium Horizon (3 to 7 Years): Medium-term goals allow for modest capital growth with controlled risk. Balanced portfolios\u2014such as 40% equities and 60% fixed income, or multi-asset conservative ETFs\u2014provide exposure to equity upside while bonds buffer against extreme downturns.\n\n3. Long Horizon (7+ Years): For goals more than seven years away, inflation becomes the primary threat to purchasing power. Equities have historically provided positive real returns over nearly every 10-year rolling period in modern financial history. Investors with long horizons should embrace stock market volatility as the necessary cost of long-term compounding.\n\nAs a long-term goal approaches, investors should implement a 'glidepath,' gradually shifting funds from equities into liquid cash equivalents 2-3 years prior to the spending date."
+}

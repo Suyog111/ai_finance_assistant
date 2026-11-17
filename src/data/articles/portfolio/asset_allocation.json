@@ -1,0 +1,15 @@
+{
+  "id": "asset_allocation",
+  "title": "Principles of Strategic Asset Allocation",
+  "category": "portfolio",
+  "source": "AI Finance Assistant Knowledge Base",
+  "date": "2024-01-01",
+  "tags": [
+    "asset allocation",
+    "portfolio",
+    "risk management",
+    "stocks",
+    "bonds"
+  ],
+  "content": "Asset allocation is the process of dividing an investment portfolio among different asset categories, such as equities, fixed income securities, cash equivalents, and alternative assets. Empirical financial studies have demonstrated that asset allocation decisions account for over 90% of the variation in portfolio quarterly returns over time, far outweighing the impact of individual stock picking or market timing.\n\nThe foundational premise of asset allocation is that different asset classes exhibit varying levels of expected return and volatility, and they react differently to economic events. When equities experience downward pressure during a recession, government bonds frequently hold their value or appreciate due to flight-to-safety capital flows and falling interest rates. By combining assets with low or negative correlation, investors achieve a higher Sharpe ratio\u2014earning better risk-adjusted returns.\n\nDetermining the appropriate asset mix depends primarily on an investor's investment time horizon, financial goals, and emotional risk tolerance. Traditional heuristics include the '120 minus age' rule, which suggests subtracting an investor's age from 120 to determine the target percentage allocated to stocks, with the remainder placed in bonds. For instance, a 30-year-old would hold approximately 90% equities and 10% fixed income, reflecting a long horizon capable of absorbing market drawdowns.\n\nModel portfolios range from conservative (20% stocks, 80% bonds) designed for capital preservation, to aggressive growth (90-100% stocks) aimed at capital accumulation. Investors should periodically review their allocation as their life circumstances evolve, transitioning from aggressive accumulation phases toward capital preservation as retirement approaches."
+}

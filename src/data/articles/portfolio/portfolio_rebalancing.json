@@ -1,0 +1,14 @@
+{
+  "id": "portfolio_rebalancing",
+  "title": "Portfolio Rebalancing Strategies and Best Practices",
+  "category": "portfolio",
+  "source": "AI Finance Assistant Knowledge Base",
+  "date": "2024-01-01",
+  "tags": [
+    "rebalancing",
+    "risk control",
+    "portfolio maintenance",
+    "drift"
+  ],
+  "content": "Over time, differing asset performance inevitably causes a portfolio's actual asset allocation to drift away from its intended target weights. In a protracted bull market, equities may grow from 70% of a portfolio to 85%, unintentionally exposing the investor to heightened market volatility and tail risk. Portfolio rebalancing is the systematic discipline of realigning asset weights back to their target baseline.\n\nRebalancing enforces a fundamental investing virtue: systematically selling high-performing, appreciated assets and buying underperforming or lagging assets at lower relative valuations. This counter-cyclical action removes emotional impulses from portfolio management.\n\nThere are two primary methodologies for executing rebalances: calendar-based and threshold-based. Calendar rebalancing involves reviewing and adjusting the portfolio on a predetermined timetable, such as semi-annually or annually. Threshold rebalancing (or tolerance band rebalancing) triggers an adjustment whenever an asset class deviates by more than a specified percentage\u2014such as 5% absolute drift\u2014from its target allocation regardless of calendar timing.\n\nWhen executing rebalancing, investors must be mindful of transaction costs and tax friction. In taxable brokerage accounts, selling appreciated securities triggers capital gains tax obligations. Tax-efficient alternatives include redirecting new incoming cash contributions into underweighted assets or rebalancing inside tax-sheltered retirement accounts like 401(k)s and IRAs where trades do not trigger taxable events."
+}

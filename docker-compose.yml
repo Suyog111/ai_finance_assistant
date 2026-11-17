@@ -1,0 +1,19 @@
+version: "3.9"
+
+services:
+  ai-finance-assistant:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: ai_finance_assistant
+    ports:
+      - "8501:8501"
+    env_file:
+      - .env
+    volumes:
+      - ./data:/app/data
+      - ./logs:/app/logs
+    restart: unless-stopped
+    environment:
+      - ENVIRONMENT=production
+      - LOG_LEVEL=INFO

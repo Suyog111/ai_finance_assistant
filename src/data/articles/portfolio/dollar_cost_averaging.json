@@ -1,0 +1,14 @@
+{
+  "id": "dollar_cost_averaging",
+  "title": "Dollar-Cost Averaging vs Lump-Sum Investing",
+  "category": "portfolio",
+  "source": "AI Finance Assistant Knowledge Base",
+  "date": "2024-01-01",
+  "tags": [
+    "dollar cost averaging",
+    "dca",
+    "lump sum",
+    "volatility"
+  ],
+  "content": "Deciding how and when to deploy capital into volatile financial markets is a frequent dilemma for investors. Two primary strategies dominate the discussion: Dollar-Cost Averaging (DCA) and Lump-Sum Investing (LSI).\n\nDollar-Cost Averaging is an investment strategy where an investor divides a total sum of money into equal, periodic purchases over an extended duration, regardless of market conditions. For example, rather than investing $12,000 immediately, an investor might contribute $1,000 on the first day of each month for twelve months. When share prices decline, the fixed dollar amount buys more shares; when prices rise, it buys fewer shares. This automatically lowers the average cost per share over time without requiring market forecasting.\n\nBy contrast, Lump-Sum Investing involves deploying all available capital immediately. Academic research, including historical analyses by Vanguard, reveals that Lump-Sum Investing outperforms Dollar-Cost Averaging approximately 68% of the time across multi-decade historical periods. This mathematical advantage stems from the historical reality that market equities trend upward over long horizons, so delaying investment leaves capital sitting in lower-yielding cash.\n\nHowever, while Lump-Sum Investing wins on theoretical expected value, Dollar-Cost Averaging offers crucial behavioral and psychological benefits. Investing a substantial windfall immediately before an unforeseen market drop can induce panic selling. DCA prevents regret and simplifies ongoing savings from bi-weekly paychecks, making it the practical choice for most working professionals."
+}

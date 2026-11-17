@@ -1,0 +1,55 @@
+# ============================================================
+# AI Finance Assistant — Configuration
+# ============================================================
+
+# --- LLM Settings ---
+llm:
+  provider: "openai"                  # "google" | "openai" | "anthropic"
+  model_name: "gpt-4o-mini"          # Provider-specific model name
+  temperature: 0.1                    # Low temp for factual financial responses
+  max_tokens: 2048
+
+# --- Embedding Settings ---
+embeddings:
+  provider: "openai"                  # "google" | "openai" | "huggingface"
+  model_name: "text-embedding-3-small"
+  # Fallback if above unavailable: "all-MiniLM-L6-v2" (local HuggingFace)
+
+# --- Vector Store ---
+vector_store:
+  type: "faiss"                       # "faiss" | "chroma"
+  index_path: "data/faiss_index"
+  chroma_persist_dir: "data/chroma_db"
+  collection_name: "finance_knowledge"
+
+# --- RAG / Retrieval ---
+rag:
+  chunk_size: 512
+  chunk_overlap: 64
+  top_k: 5                            # Number of docs to retrieve
+  score_threshold: 0.3                # Minimum similarity score
+
+# --- Market Data ---
+market_data:
+  primary_provider: "yfinance"        # "yfinance" | "alpha_vantage"
+  cache_ttl_seconds: 60               # Cache live prices for 60s
+  max_retries: 3
+  retry_backoff_multiplier: 2
+
+# --- Conversation ---
+conversation:
+  max_history_turns: 20              # Max messages kept in context
+  session_timeout_minutes: 60
+
+# --- Logging ---
+logging:
+  level: "INFO"                       # DEBUG | INFO | WARNING | ERROR
+  format: "json"                      # "json" | "text"
+  log_file: "logs/app.log"
+
+# --- Streamlit App ---
+app:
+  title: "AI Finance Assistant"
+  page_icon: "💹"
+  layout: "wide"
+  auto_refresh_interval_seconds: 60

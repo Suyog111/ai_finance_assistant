@@ -1,0 +1,51 @@
+# ── Core AI / LLM ──────────────────────────────────────────────────────────────
+langchain>=0.3.0
+langchain-core>=0.3.0
+langchain-community>=0.3.0
+langgraph>=0.2.0
+
+# ── LLM Providers (choose one or more) ─────────────────────────────────────────
+langchain-google-genai>=2.0.0        # Google Gemini
+langchain-openai>=0.2.0              # OpenAI GPT
+langchain-anthropic>=0.3.0           # Anthropic Claude
+
+# ── Vector Store / Embeddings ───────────────────────────────────────────────────
+faiss-cpu>=1.8.0
+chromadb>=0.5.0
+sentence-transformers>=3.0.0         # Local embedding fallback
+
+# ── Market Data ─────────────────────────────────────────────────────────────────
+yfinance>=0.2.40
+alpha-vantage>=3.0.0
+
+# ── Web Interface ───────────────────────────────────────────────────────────────
+streamlit>=1.39.0
+plotly>=5.24.0
+
+# ── Data & Utilities ────────────────────────────────────────────────────────────
+pandas>=2.2.0
+numpy>=1.26.0
+pydantic>=2.9.0
+pydantic-settings>=2.5.0
+python-dotenv>=1.0.0
+PyYAML>=6.0.0
+httpx>=0.27.0
+tenacity>=9.0.0                      # Retry with exponential backoff
+cachetools>=5.5.0                    # In-memory TTL cache
+
+# ── Logging ─────────────────────────────────────────────────────────────────────
+structlog>=24.4.0
+
+# ── Testing ─────────────────────────────────────────────────────────────────────
+pytest>=8.3.0
+pytest-cov>=6.0.0
+pytest-asyncio>=0.24.0
+pytest-mock>=3.14.0
+
+# ── Code Quality ────────────────────────────────────────────────────────────────
+ruff>=0.7.0
+black>=24.10.0
+mypy>=1.13.0
+
+# ── MCP Server (optional bonus) ─────────────────────────────────────────────────
+# fastmcp>=0.4.0

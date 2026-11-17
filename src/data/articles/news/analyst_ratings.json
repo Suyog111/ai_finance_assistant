@@ -1,0 +1,15 @@
+{
+  "id": "analyst_ratings",
+  "title": "Understanding Wall Street Analyst Ratings and Price Targets",
+  "category": "news",
+  "source": "AI Finance Assistant Knowledge Base",
+  "date": "2024-01-01",
+  "tags": [
+    "analysts",
+    "price targets",
+    "buy rating",
+    "consensus",
+    "wall street"
+  ],
+  "content": "Financial media regularly reports on Wall Street analyst upgrades, downgrades, and price target revisions. Understanding how equity research works helps investors place analyst opinions in their proper perspective.\n\nEquity research analysts are employed by investment banks and brokerage firms (the 'sell-side') to research publicly traded corporations. They build detailed financial discounted cash flow (DCF) models, interview corporate leadership, and issue research reports with recommendation ratings\u2014typically categorized as Buy (or Outperform/Overweight), Hold (or Neutral/Equal-weight), and Sell (or Underperform/Underweight).\n\nAnalysts also establish a 12-month Price Target, representing their projection of where the stock will trade in one year. While consensus estimates (the average of all analyst expectations) provide a valuable benchmark for market sentiment, retail investors should not treat analyst ratings as definitive investment advice.\n\nFirst, Wall Street exhibits a strong structural bias toward optimistic ratings. Sell ratings historically comprise less than 10% of all published ratings because investment banks avoid alienating corporate management teams who award lucrative underwriting and M&A advisory business. Second, price targets are frequently reactive rather than predictive: analysts routinely raise targets after a stock has already climbed, and cut targets after a stock has crashed. Use analyst reports for industry data and competitive insights, not as trading signals."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "growth_vs_value",
+  "title": "Growth vs. Value Investing: Styles and Tradeoffs",
+  "category": "portfolio",
+  "source": "AI Finance Assistant Knowledge Base",
+  "date": "2024-01-01",
+  "tags": [
+    "growth",
+    "value",
+    "pe ratio",
+    "fundamentals",
+    "style investing"
+  ],
+  "content": "Equity investing is frequently bifurcated into two foundational investment styles: Growth investing and Value investing. Understanding their differences helps investors construct balanced portfolios that align with macroeconomic cycles.\n\nGrowth investing focuses on companies that are expected to grow revenue, earnings, and cash flows at rates significantly faster than the market average. Growth businesses typically operate in expanding industries\u2014such as cloud computing, artificial intelligence, biotechnology, and renewable energy. These companies routinely reinvest all profits back into research, development, and customer acquisition rather than paying dividends. Consequently, growth stocks trade at premium valuation multiples, such as elevated Price-to-Earnings (P/E) and Price-to-Sales (P/S) ratios. While growth stocks offer substantial upside during expansions, they face elevated valuation compression when interest rates rise.\n\nValue investing, popularized by Benjamin Graham and Warren Buffett, focuses on identifying established companies whose current market share prices trade below their perceived intrinsic worth. Value stocks are frequently found in mature industries like financials, energy, manufacturing, and utilities. These companies usually exhibit lower P/E ratios, steady free cash flow, and reliable dividend yields. Value investors seek a 'margin of safety' by purchasing undervalued assets whose prices may recover as the market recognizes their true earnings power.\n\nNeither style outperforms continuously across all market environments. Growth outperformed from 2010 through 2021 during low-rate regimes, whereas Value outperformed during the inflation surge of 2022. Blended core holdings (such as total market index funds) capture both styles, ensuring exposure to growth innovators and resilient value compounders."
+}

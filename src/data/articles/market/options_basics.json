@@ -1,0 +1,15 @@
+{
+  "id": "options_basics",
+  "title": "Introduction to Options Contracts and Strategies",
+  "category": "market",
+  "source": "AI Finance Assistant Knowledge Base",
+  "date": "2024-01-01",
+  "tags": [
+    "options",
+    "derivatives",
+    "call",
+    "put",
+    "hedging"
+  ],
+  "content": "Options are financial derivatives whose value is derived from an underlying asset, such as individual stocks, indexes, or ETFs. An option contract gives the buyer the right, but not the obligation, to buy or sell a specified quantity of the underlying security (typically 100 shares per contract) at a predetermined price known as the strike price, on or before a specified expiration date.\n\nThere are two primary types of options: Call options and Put options. A Call option gives the holder the right to purchase the underlying stock at the strike price. Investors purchase call options when they anticipate that the asset price will rise above the strike plus the premium paid. Conversely, a Put option gives the holder the right to sell the underlying security at the strike price. Puts are purchased by investors seeking to profit from price declines or to establish downside insurance for existing equity portfolios.\n\nEvery options trade involves a buyer and a seller (writer). The buyer pays an upfront, non-refundable fee called the option premium, which represents their maximum potential loss. The writer collects the premium but takes on significant contractual obligations. Option pricing consists of intrinsic value (the in-the-money amount) and extrinsic or time value, governed by factors like implied volatility and days until expiration.\n\nConservative investors often employ beginner options strategies to reduce risk or generate incremental income rather than speculative leverage. The covered call strategy involves holding 100 shares of a stock while selling an out-of-the-money call option, collecting premium in exchange for capping upside potential. The protective put strategy involves buying a put option on existing shares, creating a floor against severe market downturns. Because options involve expiration dates and leverage, beginners must understand Greeks like Delta and Theta before executing live trades."
+}

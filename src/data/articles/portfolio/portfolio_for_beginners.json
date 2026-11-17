@@ -1,0 +1,14 @@
+{
+  "id": "portfolio_for_beginners",
+  "title": "The Three-Fund Portfolio: A Simple Framework for Beginners",
+  "category": "portfolio",
+  "source": "AI Finance Assistant Knowledge Base",
+  "date": "2024-01-01",
+  "tags": [
+    "bogleheads",
+    "three fund portfolio",
+    "index funds",
+    "vanguard"
+  ],
+  "content": "Building an effective investment portfolio does not require managing dozens of individual stocks or paying costly advisory management fees. Pioneered by John Bogle, founder of Vanguard, and popularized by the Bogleheads investment community, the Three-Fund Portfolio is one of the most celebrated, evidence-based approaches to long-term wealth accumulation.\n\nThe Three-Fund Portfolio is built around three broad index funds that capture nearly the entire global investable market: a domestic total stock market index fund, an international total stock market index fund, and a total bond market index fund. In the United States, popular ETF implementations include Vanguard Total Stock Market (VTI) for US equities, Vanguard Total International Stock (VXUS) for global equities, and Vanguard Total Bond Market (BND) for fixed income.\n\nThis simple structure offers comprehensive global diversification across thousands of large, mid, and small-cap companies in both developed and emerging markets, combined with high-grade government and corporate bonds. Because index funds track broad market capitalization, portfolio turnover is minimal, keeping expense ratios below 0.05% annually and avoiding tax drag from internal capital gains distributions.\n\nInvestors tailor the Three-Fund Portfolio to their personal risk profile simply by altering the percentage allocated to bonds versus equities. A young beginner might hold 70% VTI, 20% VXUS, and 10% BND, while an investor near retirement might transition to 40% VTI, 20% VXUS, and 40% BND. The strategy requires almost zero maintenance beyond annual rebalancing and regular contributions."
+}

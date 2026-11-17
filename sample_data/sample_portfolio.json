@@ -1,0 +1,48 @@
+{
+  "description": "Sample multi-asset portfolio containing US equities, Indian equities, and broad index funds",
+  "base_currency": "USD",
+  "holdings": [
+    {
+      "ticker": "AAPL",
+      "quantity": 15,
+      "avg_cost": 175.50,
+      "sector": "Technology",
+      "market": "US"
+    },
+    {
+      "ticker": "MSFT",
+      "quantity": 8,
+      "avg_cost": 395.00,
+      "sector": "Technology",
+      "market": "US"
+    },
+    {
+      "ticker": "VTI",
+      "quantity": 25,
+      "avg_cost": 225.00,
+      "sector": "Broad Market",
+      "market": "US"
+    },
+    {
+      "ticker": "RELIANCE.NS",
+      "quantity": 20,
+      "avg_cost": 2850.00,
+      "sector": "Energy & Conglomerate",
+      "market": "India"
+    },
+    {
+      "ticker": "TCS.NS",
+      "quantity": 12,
+      "avg_cost": 3920.00,
+      "sector": "Information Technology",
+      "market": "India"
+    },
+    {
+      "ticker": "HDFCBANK.NS",
+      "quantity": 30,
+      "avg_cost": 1620.00,
+      "sector": "Financial Services",
+      "market": "India"
+    }
+  ]
+}

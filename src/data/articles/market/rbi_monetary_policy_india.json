@@ -1,0 +1,16 @@
+{
+  "id": "rbi_monetary_policy_india",
+  "title": "The Reserve Bank of India (RBI) and Monetary Policy Transmission",
+  "category": "market",
+  "source": "AI Finance Assistant Knowledge Base",
+  "date": "2024-08-01",
+  "tags": [
+    "rbi",
+    "repo rate",
+    "inflation",
+    "cpi",
+    "monetary policy",
+    "mpc"
+  ],
+  "content": "The Reserve Bank of India (RBI), located in Mumbai, is India's central banking institution. It is responsible for regulating the currency, maintaining macroeconomic monetary stability, and supervising commercial banks.\n\nThe RBI's primary policy-making organ is the Monetary Policy Committee (MPC), a six-member panel chaired by the RBI Governor. Under the flexible inflation targeting framework, the MPC is legally mandated to maintain consumer price index (CPI) headline inflation at 4% with a tolerance band of +/- 2% (2% to 6%).\n\nKey Monetary Policy Instruments:\n1. The Repo Rate: The interest rate at which commercial banks borrow short-term funds from the RBI against government collateral. The repo rate is the master benchmark that sets interest rates across the entire Indian banking system.\n2. Policy Transmission:\n- When the RBI raises the Repo Rate (a Hawkish stance to curb inflation), commercial banks increase their External Benchmark Lending Rates (EBLR). As a result, home loan EMIs, auto loan rates, and corporate borrowing costs increase, dampening discretionary consumer demand and cooling inflationary pressures.\n- When the RBI cuts the Repo Rate (a Dovish stance to spur economic growth), loan EMIs decrease, stimulating corporate capital expenditures and consumer spending, which typically boosts equity valuations.\n3. Cash Reserve Ratio (CRR) and Statutory Liquidity Ratio (SLR): The minimum percentage of deposits commercial banks must park with the RBI in cash (CRR) or maintain in liquid government securities (SLR), controlling liquidity across the economy."
+}

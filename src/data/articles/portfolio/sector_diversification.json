@@ -1,0 +1,15 @@
+{
+  "id": "sector_diversification",
+  "title": "Sector Diversification and GICS Classification",
+  "category": "portfolio",
+  "source": "AI Finance Assistant Knowledge Base",
+  "date": "2024-01-01",
+  "tags": [
+    "gics",
+    "sectors",
+    "technology",
+    "healthcare",
+    "defensive"
+  ],
+  "content": "Diversifying within an equity allocation requires spreading capital across diverse economic sectors rather than concentrating exclusively in high-profile industries. The financial industry classifies corporate equities using the Global Industry Classification Standard (GICS), which divides all public companies into 11 broad sectors.\n\nThese 11 GICS sectors include Information Technology, Health Care, Financials, Consumer Discretionary, Communication Services, Industrials, Consumer Staples, Energy, Utilities, Real Estate, and Materials. Each sector exhibits distinct business characteristics, revenue drivers, and sensitivity to the macroeconomic business cycle.\n\nSectors are broadly categorized as cyclical or defensive. Cyclical sectors\u2014such as Consumer Discretionary, Industrials, Financials, and Materials\u2014perform robustly during economic expansions when corporate capital expenditures and consumer spending surge. However, they experience sharp profit contractions during recessions. In contrast, defensive sectors\u2014such as Consumer Staples, Utilities, and Health Care\u2014provide essential goods and services with inelastic demand, maintaining stable cash flows and dividends throughout downturns.\n\nInvestors who concentrated their portfolios heavily in Technology equities in 2021 suffered severe drawdowns during the 2022 rate-hiking cycle, while diversified investors holding Energy and Value sectors mitigated portfolio losses. Broad index ETFs such as VOO or VTI naturally distribute holdings across all 11 sectors, shielding self-directed investors from sector-specific concentration risk."
+}
