@@ -23,11 +23,11 @@ load_dotenv(PROJECT_ROOT / ".env")
 import streamlit as st
 
 from src.core.settings import get_settings
-from src.web_app.pages.chat import render_chat_page
-from src.web_app.pages.goals import render_goals_page
-from src.web_app.pages.market import render_market_page
-from src.web_app.pages.portfolio import render_portfolio_page
 from src.web_app.session import clear_chat_history, init_session_state
+from src.web_app.views.chat import render_chat_page
+from src.web_app.views.goals import render_goals_page
+from src.web_app.views.market import render_market_page
+from src.web_app.views.portfolio import render_portfolio_page
 
 # Configure Streamlit page layout
 st.set_page_config(

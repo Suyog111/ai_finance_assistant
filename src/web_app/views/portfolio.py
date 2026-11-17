@@ -1,5 +1,5 @@
 """
-src/web_app/pages/portfolio.py
+src/web_app/views/portfolio.py
 
 Portfolio Analysis Dashboard.
 Features:

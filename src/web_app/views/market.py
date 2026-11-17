@@ -1,5 +1,5 @@
 """
-src/web_app/pages/market.py
+src/web_app/views/market.py
 
 Real-time Market Overview & Stock Quotes.
 Features:

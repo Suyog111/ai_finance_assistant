@@ -1,5 +1,5 @@
 """
-src/web_app/pages/chat.py
+src/web_app/views/chat.py
 
 Interactive multi-turn conversational interface for the AI Finance Assistant.
 Features:

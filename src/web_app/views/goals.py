@@ -1,5 +1,5 @@
 """
-src/web_app/pages/goals.py
+src/web_app/views/goals.py
 
 Goal Planning & Wealth Accumulation Simulator.
 Features:
