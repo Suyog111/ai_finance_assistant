@@ -60,8 +60,9 @@ def render_market_page() -> None:
     with scol1:
         searched_sym = (
             st.text_input(
-                "Enter Ticker Symbol (e.g., AAPL, NVDA, RELIANCE, TCS, SPY, NIFTYBEES)",
+                "Enter Ticker Symbol (e.g., BEL, TATAPOWER, AAPL, NVDA, RELIANCE, TCS, SPY)",
                 value="AAPL",
+                help="Supports US equities, Indian stocks (with or without .NS/.BO, e.g. BEL, TATAPOWER, RELIANCE.NS), and ETFs.",
             )
             .strip()
             .upper()
@@ -73,13 +74,14 @@ def render_market_page() -> None:
         st.button("Get Live Quote", type="primary", use_container_width=True)
 
     if searched_sym:
-        norm_sym = normalize_ticker(searched_sym)
+        norm_sym = normalize_ticker(searched_sym, market=market_param)
         with st.spinner(f"Fetching real-time data for {norm_sym}..."):
             quote = default_market_client.get_quote(norm_sym)
 
         if quote.get("status") == "success" and quote.get("price", 0) > 0:
+            resolved_sym = quote.get("ticker", norm_sym)
             curr = quote.get("currency", "USD")
-            st.markdown(f"### {quote.get('name', norm_sym)} (`{norm_sym}`)")
+            st.markdown(f"### {quote.get('name', resolved_sym)} (`{resolved_sym}`)")
 
             # Metric Cards
             qcol1, qcol2, qcol3, qcol4, qcol5 = st.columns(5)
@@ -107,17 +109,19 @@ def render_market_page() -> None:
             st.markdown("---")
 
             # 4. Recent News for Searched Ticker
-            st.markdown(f"#### 📰 Recent Headlines for {norm_sym}")
-            news_items = default_market_client.get_ticker_news(norm_sym, limit=4)
+            st.markdown(f"#### 📰 Recent Headlines for {resolved_sym}")
+            news_items = default_market_client.get_ticker_news(resolved_sym, limit=4)
             if news_items:
                 for item in news_items:
                     st.markdown(f"- **[{item['title']}]({item['link']})** — *{item['publisher']}*")
             else:
-                st.caption(f"No recent news items found for {norm_sym}.")
+                st.caption(f"No recent news items found for {resolved_sym}.")
 
         else:
             st.warning(
-                f"Could not retrieve live market quote for symbol `{norm_sym}`. Please check the spelling."
+                f"Could not retrieve live market quote for symbol `{norm_sym}`. "
+                "Tip: For Indian equities, symbols work with or without suffix (e.g. `BEL`, `TATAPOWER`, `BEL.NS`, or `BEL.BO`). "
+                "Please verify the ticker symbol."
             )
 
     render_disclaimer_footer()
