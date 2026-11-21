@@ -7,7 +7,7 @@ All agents read from and write to these TypedDicts.
 
 from __future__ import annotations
 
-from typing import Annotated, Any, TypedDict
+from typing import Annotated, Any, Optional, TypedDict
 
 from langchain_core.messages import BaseMessage
 from langgraph.graph.message import add_messages
@@ -49,7 +49,7 @@ class AgentOutput(TypedDict, total=False):
     content: str  # Human-readable answer
     sources: list[dict[str, str]]  # [{title, url, category}]
     data: dict[str, Any]  # Structured data (metrics, charts, etc.)
-    error: str | None
+    error: Optional[str]
 
 
 # ---------------------------------------------------------------------------
@@ -76,7 +76,7 @@ class AppState(TypedDict):
     intent: str  # "qa" | "portfolio" | "market" | "goals" | "news" | "tax" | "multi"
     agent_outputs: list[AgentOutput]
     final_response: str
-    error: str | None
+    error: Optional[str]
 
 
 # ---------------------------------------------------------------------------

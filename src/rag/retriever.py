@@ -8,7 +8,7 @@ for diversity. Returns documents with full source attribution.
 from __future__ import annotations
 
 from dataclasses import dataclass, field
-from typing import Any
+from typing import Any, Optional
 
 from langchain_core.documents import Document
 from langchain_core.vectorstores import VectorStore
@@ -27,7 +27,7 @@ class RetrievalResult:
 
     documents: list[Document]
     query: str
-    category_filter: str | None
+    category_filter: Optional[str]
     total_found: int
     sources: list[dict[str, str]] = field(default_factory=list)
 
